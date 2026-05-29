@@ -168,7 +168,10 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](output_sobel.jpeg)
+
+
+<img width="634" height="635" alt="image" src="https://github.com/user-attachments/assets/d1c71724-e881-4134-bfaa-eac697fe0b3d" />
+
 
 ## RESULT:
 Thus the program has been executed by using CUDA to parallelize the Sobel edge detection filter on the GPU, successfully detecting edges of all shapes, text, and lines in the input image with improved performance over CPU.
